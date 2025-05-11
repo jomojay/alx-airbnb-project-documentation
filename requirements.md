@@ -118,4 +118,4 @@ PATCH /api/bookings/{bookingId}/cancel
 **Performance:**
 
 - Handle 500 concurrent bookings/min
-- Booking confirmation <2s
+- Booking confirmation
